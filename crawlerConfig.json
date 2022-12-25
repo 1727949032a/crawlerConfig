@@ -1,0 +1,14 @@
+﻿{
+  "videoPath": "test",
+  "currentWeb": "web1",
+  "webList": [
+    {
+      "name": "web1",
+      "title": "网站1"
+    },
+    {
+      "name": "web2",
+      "title": "网站2"
+    }
+  ]
+}
